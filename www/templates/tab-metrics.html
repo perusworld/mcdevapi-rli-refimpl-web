@@ -1,0 +1,9 @@
+<ion-view>
+  <ion-nav-title> {{chart.period}} - {{req.country}} / {{req.unitType}} / {{req.unitId}}</ion-nav-title>
+  <ion-content>
+    <nvd3-multi-bar-chart data="chartData" id="chartData" xAxisTickFormat="xAxisTickFormat()" showLegend="true" showControls="true"
+      height="{{chart.height}}" showXAxis="true" showYAxis="true" interactive="true" tooltips="true" noData="Please wait loading data...">
+      <svg></svg>
+    </nvd3-multi-bar-chart>
+  </ion-content>
+</ion-view>

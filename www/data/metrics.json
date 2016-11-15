@@ -1,0 +1,100 @@
+{
+    "RetailUnitMetricResponse": {
+        "PageOffset": "1",
+        "TotalCount": 6,
+        "RetailUnitMetrics": {
+            "RetailUnitMetric": [
+                {
+                    "RetailUnitId": "06",
+                    "RetailUnitType": "STATE",
+                    "Period": "2016/07",
+                    "RLIScores": {
+                        "CompositeIndustry": "APL",
+                        "CompositeIndustryName": "apparel",
+                        "Sales": 981,
+                        "Transactions": 981,
+                        "TicketSize": 924,
+                        "Growth": 135,
+                        "Stability": 962,
+                        "Composite": 962
+                    }
+                },
+                {
+                    "RetailUnitId": "06",
+                    "RetailUnitType": "STATE",
+                    "Period": "2016/07",
+                    "RLIScores": {
+                        "CompositeIndustry": "EAP",
+                        "CompositeIndustryName": "Eating Places",
+                        "Sales": 962,
+                        "Transactions": 962,
+                        "TicketSize": 866,
+                        "Growth": 808,
+                        "Stability": 674,
+                        "Composite": 981
+                    }
+                },
+                {
+                    "RetailUnitId": "06",
+                    "RetailUnitType": "STATE",
+                    "Period": "2016/07",
+                    "RLIScores": {
+                        "CompositeIndustry": "NEP",
+                        "CompositeIndustryName": "non_eating_places",
+                        "Sales": 982,
+                        "Transactions": 963,
+                        "TicketSize": 887,
+                        "Growth": 510,
+                        "Stability": 868,
+                        "Composite": 982
+                    }
+                },
+                {
+                    "RetailUnitId": "06",
+                    "RetailUnitType": "STATE",
+                    "Period": "2016/07",
+                    "RLIScores": {
+                        "CompositeIndustry": "102",
+                        "CompositeIndustryName": "Eating Places",
+                        "Sales": 962,
+                        "Transactions": 962,
+                        "TicketSize": 866,
+                        "Growth": 712,
+                        "Stability": 827,
+                        "Composite": 981
+                    }
+                },
+                {
+                    "RetailUnitId": "06",
+                    "RetailUnitType": "STATE",
+                    "Period": "2016/07",
+                    "RLIScores": {
+                        "CompositeIndustry": "100",
+                        "CompositeIndustryName": "All Retail",
+                        "Sales": 982,
+                        "Transactions": 963,
+                        "TicketSize": 831,
+                        "Growth": 812,
+                        "Stability": 982,
+                        "Composite": 982
+                    }
+                },
+                {
+                    "RetailUnitId": "06",
+                    "RetailUnitType": "STATE",
+                    "Period": "2016/07",
+                    "RLIScores": {
+                        "CompositeIndustry": "ALL",
+                        "CompositeIndustryName": "all",
+                        "Sales": 982,
+                        "Transactions": 963,
+                        "TicketSize": 831,
+                        "Growth": 604,
+                        "Stability": 868,
+                        "Composite": 982
+                    }
+                }
+            ]
+        }
+    }
+}
